@@ -2,13 +2,17 @@
   "name": "insomnia-plugin-totp-mfa",
   "version": "0.0.1",
   "description": "Insomnia plugin that will generate a Time-Based One-Time Password based of the MFA secret",
-  "main": "index.js",
+  "main": "main.js",
   "keywords": [
+    "Insomnia",
     "TOTP",
     "MFA",
     "authentication"
   ],
-  "author": "Sven Thirion",
+  "author": {
+    "name": "Sven Thirion",
+    "url": "https://github.com/sthirion"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sthirion/insomnia-mfa"
@@ -20,8 +24,7 @@
     "description": "Insomnia plugin that will generate a Time-Based One-Time Password based of the MFA secret",
 
     "images": {
-      "icon": "lock.svg",
-      "cover": "cover.svg"
+      "icon": "icon.svg"
     },
 
     "publisher": {
