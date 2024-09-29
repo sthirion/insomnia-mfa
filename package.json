@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-totp-mfa",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Insomnia plugin that will generate a Time-Based One-Time Password based of the MFA secret",
   "main": "main.js",
   "keywords": [
@@ -24,7 +24,7 @@
     "description": "Insomnia plugin that will generate a Time-Based One-Time Password based of the MFA secret",
 
     "images": {
-      "icon": "icon.svg"
+      "icon": "./img/icon.png"
     },
 
     "publisher": {
